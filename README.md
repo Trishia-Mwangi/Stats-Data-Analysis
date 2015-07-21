@@ -1,2 +1,2 @@
 # Stats-Data-Analysis
-Caarry out data analysis
+Carry out data analysis
